@@ -2,6 +2,8 @@
 
 ## Asennusohjeet
 
+Jos käytät omaa kannettavaa, etene [tämän](https://sooluthomas.github.io/testTranslation/install.html) ohjeen mukaan
+
 ### 1. Ohjelmistojen asennus
 1. Asenna VSCode yritysportaalista
 2. Asenna [git](https://github.com/git-for-windows/git/releases/download/v2.35.1.windows.2/Git-2.35.1.2-64-bit.exe)
