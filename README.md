@@ -2,7 +2,9 @@
 
 ## Asennusohjeet
 
-Jos käytät omaa kannettavaa, etene [tämän](https://sooluthomas.github.io/testTranslation/install.html) ohjeen mukaan
+Jos käytät *omaa kannettavaa*, etene [tämän](https://sooluthomas.github.io/testTranslation/install.html) ohjeen mukaan
+
+Jos käytät *Espoon lukiolaiskannettavaa*...
 
 ### 1. Ohjelmistojen asennus
 1. Asenna VSCode yritysportaalista
