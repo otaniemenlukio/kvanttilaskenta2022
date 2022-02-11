@@ -1,5 +1,9 @@
 # Kvanttilaskennan lukiokurssi 2022
 
+## Luennot
+
+[Luento 1: johdanto](https://youtu.be/14ZE_988CXs)
+
 ## Asennusohjeet
 
 Jos käytät **omaa kannettavaa**, etene [tämän](https://sooluthomas.github.io/testTranslation/install.html) ohjeen mukaan
