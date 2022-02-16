@@ -3,6 +3,7 @@
 ## Luennot
 
 [Luento 1: johdanto](https://youtu.be/14ZE_988CXs)
+[Laskuharjoitus 1](https://youtu.be/b4ZPvkLIt08)
 
 ## Asennusohjeet
 
