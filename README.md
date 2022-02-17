@@ -6,6 +6,8 @@
 
 [Laskuharjoitus 1](https://youtu.be/b4ZPvkLIt08)
 
+[Luento 2 16.2.2022:](https://youtu.be/1WbVLAkJNe4)
+
 ## Asennusohjeet
 
 Jos käytät **omaa kannettavaa**, etene [tämän](https://sooluthomas.github.io/testTranslation/install.html) ohjeen mukaan
