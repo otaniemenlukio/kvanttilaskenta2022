@@ -8,6 +8,8 @@
 
 [Luento 2 16.2.2022:](https://youtu.be/1WbVLAkJNe4)
 
+[Laskuharjoitus 2](https://youtu.be/Qb2-90YhNXE)
+
 ## Asennusohjeet
 
 Jos käytät **omaa kannettavaa**, etene [tämän](https://qiskit.org/documentation/getting_started.html) ohjeen mukaan
