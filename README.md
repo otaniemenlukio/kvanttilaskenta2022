@@ -10,6 +10,8 @@
 
 [Laskuharjoitus 2](https://youtu.be/Qb2-90YhNXE)
 
+[Luento 3](https://youtu.be/fafX1ejXzSY)
+
 ## Asennusohjeet
 
 Jos käytät **omaa kannettavaa**, etene [tämän](https://qiskit.org/documentation/getting_started.html) ohjeen mukaan
